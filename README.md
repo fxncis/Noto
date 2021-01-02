@@ -1,3 +1,5 @@
 # Noto
 An application dedicated to helping users remove friends on ROBLOX. 
-## FAQ
+**FAQ**
+> Created -  `12-24-2020`
+
