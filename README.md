@@ -1,11 +1,11 @@
 # Noto
 An application dedicated to helping users remove friends on ROBLOX. 
 
+The reason why Noto was created was to help people suffer the long wait of unfriending accounts.
+Noto has failed many times along the way, We've tried making it a discord bot, a website, and finally, we are trying to make Noto
+an application that helps users remove friends.
 
-**FAQ**
-Purpose - Honestly, the purpose of Noto was to get known but I also decided it'd be great to
-have something that helps me when I need to unfriend people.
-
+**Other**
 Created -  `12-24-2020`
 
 Re-Created - `1/2/2021`
