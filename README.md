@@ -1,2 +1,3 @@
 # Noto
-roblox unfriender packaged into one application.
+An application dedicated to helping users remove friends on ROBLOX. 
+## FAQ
